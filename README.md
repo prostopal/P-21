@@ -1,9 +1,6 @@
 # P-21
 
-fdg
-    <meta charset="UTF-8"/>
-    <title>DOROSH LOX</title>
-</head>
+ я незнав що тут писать
 
 <body><!
     1)<a href="https://www.google.com.ua/webhp">TTT</a> <br/>
